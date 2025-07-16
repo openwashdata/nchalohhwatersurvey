@@ -8,6 +8,7 @@
 [![License: CC BY
 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+[![DOI](https://zenodo.org/badge/DOI/.svg)](https://zenodo.org/doi/)
 <!-- badges: end -->
 
 This dataset was collected in 2021 using the mWater mobile data
@@ -97,7 +98,7 @@ nchalohhwatersurvey |>
   gt::as_raw_html()
 ```
 
-<div id="dqyjhwmlxx" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="kzenlwsisl" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   &#10;  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
     <tr class="gt_col_headings" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
@@ -1123,19 +1124,20 @@ Please cite this package using:
 
 ``` r
 citation("nchalohhwatersurvey")
-#> To cite package 'nchalohhwatersurvey' in publications use:
+#> Um Paket 'nchalohhwatersurvey' in Publikationen zu zitieren, nutzen Sie
+#> bitte:
 #> 
-#>   Mhango E (2025). _nchalohhwatersurvey: What the Package Does (One
-#>   Line, Title Case)_. R package version 0.0.0.9000,
-#>   <https://github.com/openwashdata/nchalohhwatersurvey>.
+#>   Mhango E (2025). "nchalohhwatersurvey: Nchalo Water Project Household
+#>   Survey 2021." <https://github.com/openwashdata/nchalohhwatersurvey>.
 #> 
-#> A BibTeX entry for LaTeX users is
+#> Ein BibTeX-Eintrag für LaTeX-Benutzer ist
 #> 
-#>   @Manual{,
-#>     title = {nchalohhwatersurvey: What the Package Does (One Line, Title Case)},
+#>   @Misc{mhango:2025,
+#>     title = {nchalohhwatersurvey: Nchalo Water Project Household Survey 2021},
 #>     author = {Emmanuel Mhango},
 #>     year = {2025},
-#>     note = {R package version 0.0.0.9000},
 #>     url = {https://github.com/openwashdata/nchalohhwatersurvey},
+#>     abstract = {Household and community survey data from rural communities around Nchalo, Malawi. Includes water access, livelihoods, governance, and infrastructure information collected via mWater platform to support water supply planning and rural development.},
+#>     version = {0.0.0.9000},
 #>   }
 ```
