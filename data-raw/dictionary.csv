@@ -1,0 +1,40 @@
+directory,file_name,variable_name,variable_type,description
+data/,nchalohhwatersurvey.rda,submitted_on,character,Date and time the survey was submitted
+data/,nchalohhwatersurvey.rda,community_name,character,Name of the community surveyed
+data/,nchalohhwatersurvey.rda,latitude,numeric,Latitude coordinate of the survey location
+data/,nchalohhwatersurvey.rda,longitude,numeric,Longitude coordinate of the survey location
+data/,nchalohhwatersurvey.rda,community_population,numeric,Estimated total number of people in the community
+data/,nchalohhwatersurvey.rda,main_livelihood_source,character,Primary source of livelihood for the household
+data/,nchalohhwatersurvey.rda,main_livelihood_source_comments,character,Additional comments on the households main livelihood
+data/,nchalohhwatersurvey.rda,income_in_2020_mwk,character,Estimated household income in 2020 from the main livelihood source (in MWK)
+data/,nchalohhwatersurvey.rda,income_comments,character,Additional comments about the reported income
+data/,nchalohhwatersurvey.rda,income_spending_priority,character,Main priorities for spending the household income
+data/,nchalohhwatersurvey.rda,main_drinking_water_source,character,Primary source of drinking water for the community
+data/,nchalohhwatersurvey.rda,main_drinking_water_source_other,character,Specification if Other water source was selected
+data/,nchalohhwatersurvey.rda,uses_borehole_for_other_purposes,character,Whether the borehole is used for purposes other than drinking
+data/,nchalohhwatersurvey.rda,other_borehole_use_comments,character,Comments on other uses of borehole water
+data/,nchalohhwatersurvey.rda,reasons_not_pursuing_multiple_uses,character,Reasons for not using borehole water for multiple purposes
+data/,nchalohhwatersurvey.rda,reasons_not_pursuing_multiple_uses_other,character,Specification if an Other reason was selected
+data/,nchalohhwatersurvey.rda,value_addition_opportunity,character,Whether value addition opportunities exist for a new water project
+data/,nchalohhwatersurvey.rda,value_addition_opportunity_details,character,Details about the identified value addition opportunities
+data/,nchalohhwatersurvey.rda,value_addition_opportunity_other,character,Specification if an Other opportunity was mentioned
+data/,nchalohhwatersurvey.rda,land_allocation_responsible_person,character,Person or group responsible for land allocation for new projects
+data/,nchalohhwatersurvey.rda,leadership_allocation_decider,character,Entity that decides leadership roles in community projects
+data/,nchalohhwatersurvey.rda,leadership_allocation_other,character,Specification if an Other decision maker was indicated
+data/,nchalohhwatersurvey.rda,gender_guidelines_for_leadership,character,Existence of gender guidelines in community leadership
+data/,nchalohhwatersurvey.rda,gender_guidelines_comments,character,Comments on the gender guidelines
+data/,nchalohhwatersurvey.rda,pay_for_water,character,Whether the community pays for water usage
+data/,nchalohhwatersurvey.rda,water_payment_amount,numeric,Amount paid for water usage (in MWK)
+data/,nchalohhwatersurvey.rda,water_payment_frequency,character,Frequency of water payment
+data/,nchalohhwatersurvey.rda,water_payment_frequency_other,character,Specification if an Other frequency was selected
+data/,nchalohhwatersurvey.rda,reason_for_not_paying,character,Main reason for not paying for water
+data/,nchalohhwatersurvey.rda,reason_for_not_paying_other,character,Specification if an Other reason was given
+data/,nchalohhwatersurvey.rda,nearest_school_type,character,Type of school closest to the community
+data/,nchalohhwatersurvey.rda,govt_school_accessibility,character,Whether government schools are accessible to all
+data/,nchalohhwatersurvey.rda,nearest_health_facility_type,character,Type of health facility closest to the community
+data/,nchalohhwatersurvey.rda,health_facility_accessibility,character,Whether the health facility is affordable and accessible to all
+data/,nchalohhwatersurvey.rda,health_facility_accessibility_other,character,Specification if an Other accessibility concern was mentioned
+data/,nchalohhwatersurvey.rda,community_solved_social_problem,character,Whether the community has independently addressed social problems
+data/,nchalohhwatersurvey.rda,community_solved_social_problem_comments,character,Comments on how social problems were addressed by the community
+data/,nchalohhwatersurvey.rda,flow_rate_test_possible_today,character,Whether it was possible to conduct a flow rate test during the visit
+data/,nchalohhwatersurvey.rda,has_temp_ec_tds_meter,character,Whether the team had a temperature and EC or TDS meter available
