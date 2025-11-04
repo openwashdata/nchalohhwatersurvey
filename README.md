@@ -1125,19 +1125,20 @@ Please cite this package using:
 
 ``` r
 citation("nchalohhwatersurvey")
-#> To cite package 'nchalohhwatersurvey' in publications use:
+#> Um Paket 'nchalohhwatersurvey' in Publikationen zu zitieren, nutzen Sie
+#> bitte:
 #> 
-#>   Mhango E (2025). _nchalohhwatersurvey: What the Package Does (One
-#>   Line, Title Case)_. R package version 0.0.0.9000,
-#>   <https://github.com/openwashdata/nchalohhwatersurvey>.
+#>   Mhango E (2025). "nchalohhwatersurvey: Nchalo Water Project Household
+#>   Survey 2021." <https://github.com/openwashdata/nchalohhwatersurvey>.
 #> 
-#> A BibTeX entry for LaTeX users is
+#> Ein BibTeX-Eintrag für LaTeX-Benutzer ist
 #> 
-#>   @Manual{,
-#>     title = {nchalohhwatersurvey: What the Package Does (One Line, Title Case)},
+#>   @Misc{mhango:2025,
+#>     title = {nchalohhwatersurvey: Nchalo Water Project Household Survey 2021},
 #>     author = {Emmanuel Mhango},
 #>     year = {2025},
-#>     note = {R package version 0.0.0.9000},
 #>     url = {https://github.com/openwashdata/nchalohhwatersurvey},
+#>     abstract = {Household and community survey data from rural communities around Nchalo, Malawi. Includes water access, livelihoods, governance, and infrastructure information collected via mWater platform to support water supply planning and rural development.},
+#>     version = {0.0.0.9000},
 #>   }
 ```

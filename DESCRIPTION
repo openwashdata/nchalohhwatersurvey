@@ -1,5 +1,5 @@
 Package: nchalohhwatersurvey
-Title: What the Package Does (One Line, Title Case)
+Title: Nchalo Water Project Household Survey 2021
 Version: 0.0.0.9000
 Authors@R: c(
     person("Emmanuel", "Mhango", , "emmanuellmhango@gmail.com", role = c("aut", "cre"),
@@ -9,7 +9,10 @@ Authors@R: c(
     person("Rodney", "Kananji", role = "ctb"),
     person("Temwani", "Chisunkha", role = "ctb")
   )
-Description: What the package does (one paragraph).
+Description: Household and community survey data from rural communities 
+    around Nchalo, Malawi. Includes water access, livelihoods, governance, 
+    and infrastructure information collected via mWater platform to support 
+    water supply planning and rural development.
 License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -19,6 +22,6 @@ Depends:
 LazyData: true
 Language: en-GB
 Config/Needs/website: rmarkdown
-Date: 2025-06-27
+Date: 2025-07-16
 URL: https://github.com/openwashdata/nchalohhwatersurvey
 BugReports: https://github.com/openwashdata/nchalohhwatersurvey/issues
