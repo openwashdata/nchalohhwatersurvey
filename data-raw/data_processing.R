@@ -16,7 +16,7 @@ library(maps)
 
 # Load Data --------------------------------------------------------------------
 # Load the necessary data from a CSV file
-data_in <- readr::read_csv("data-raw/Nchalo household survey 2021.csv")
+data_in <- readr::read_csv("data-raw/usaid flood response malawi 2019.csv")
 
 # (Optional) Read and clean the codebook if needed (commented out for now)
 # codebook <- readxl::read_excel("data-raw/codebook.xlsx") %>%
