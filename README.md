@@ -10,6 +10,7 @@
 
 [![DOI](https://zenodo.org/badge/1009536486.svg)](https://doi.org/10.5281/zenodo.17522182)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17522182.svg)](https://zenodo.org/doi/10.5281/zenodo.17522182)
 <!-- badges: end -->
 
 This dataset was collected in 2021 using the mWater mobile data
@@ -22,7 +23,7 @@ The data reflects conditions at the time of collection and is intended
 to support targeted decision-making around water supply projects and
 integrated rural development efforts.
 
-1.  **Use cases of the data**  
+1.  **Use cases of the data**\
     Local Government Authorities (District Water Offices, Planning
     Departments) To inform localized infrastructure development and
     service delivery planning.
@@ -99,7 +100,7 @@ nchalohhwatersurvey |>
   gt::as_raw_html()
 ```
 
-<div id="okozjzxhsn" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="bzenqkpibd" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   &#10;  <table class="gt_table" data-quarto-disable-processing="false" data-quarto-bootstrap="false" style="-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; display: table; border-collapse: collapse; line-height: normal; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;" bgcolor="#FFFFFF">
   <thead style="border-style: none;">
     <tr class="gt_col_headings" style="border-style: none; border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
@@ -263,8 +264,7 @@ nchalohhwatersurvey |>
 <td headers="flow_rate_test_possible_today" class="gt_row gt_left" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;" valign="middle" align="left">No</td>
 <td headers="has_temp_ec_tds_meter" class="gt_row gt_left" style="border-style: none; padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;" valign="middle" align="left">No</td></tr>
   </tbody>
-  &#10;  
-</table>
+  &#10;</table>
 </div>
 
 For an overview of the variable names, see the following table.
@@ -1082,7 +1082,7 @@ ggplot(water_source_counts, aes(x = reorder(main_drinking_water_source, -n), y =
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
 
-<img src="man/figures/README-unnamed-chunk-7-1.png" width="100%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-7-1.png" alt="" width="100%" style="display: block; margin: auto;" />
 
 ``` r
 
@@ -1112,12 +1112,12 @@ ggplot() +
   theme_minimal()
 ```
 
-<img src="man/figures/README-unnamed-chunk-7-2.png" width="100%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-7-2.png" alt="" width="100%" style="display: block; margin: auto;" />
 
 ## License
 
 Data are available as
-[CC-BY](https://github.com/openwashdata/%7B%7B%7Bpackagename%7D%7D%7D/blob/main/LICENSE.md).
+[CC-BY](https://github.com/openwashdata/nchalohhwatersurvey/blob/main/LICENSE.md).
 
 ## Citation
 
@@ -1125,20 +1125,23 @@ Please cite this package using:
 
 ``` r
 citation("nchalohhwatersurvey")
-#> Um Paket 'nchalohhwatersurvey' in Publikationen zu zitieren, nutzen Sie
-#> bitte:
+#> To cite package 'nchalohhwatersurvey' in publications use:
 #> 
-#>   Mhango E (2025). "nchalohhwatersurvey: Nchalo Water Project Household
-#>   Survey 2021." <https://github.com/openwashdata/nchalohhwatersurvey>.
+#>   Mhango E (2026). "nchalohhwatersurvey: Nchalo Water Project Household
+#>   Survey 2021." doi:10.5281/zenodo.17522182
+#>   <https://doi.org/10.5281/zenodo.17522182>.
+#>   <https://github.com/openwashdata/nchalohhwatersurvey>.
 #> 
-#> Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+#> A BibTeX entry for LaTeX users is
 #> 
-#>   @Misc{mhango:2025,
+#>   @Misc{mhango:2026,
 #>     title = {nchalohhwatersurvey: Nchalo Water Project Household Survey 2021},
 #>     author = {Emmanuel Mhango},
-#>     year = {2025},
+#>     year = {2026},
+#>     doi = {10.5281/zenodo.17522182},
 #>     url = {https://github.com/openwashdata/nchalohhwatersurvey},
 #>     abstract = {Household and community survey data from rural communities around Nchalo, Malawi. Includes water access, livelihoods, governance, and infrastructure information collected via mWater platform to support water supply planning and rural development.},
+#>     keywords = {open data,washdata,household survey,water supply,boreholes,livelihoods,Nchalo,Malawi,hygiene,sanitation,wash},
 #>     version = {0.0.0.9000},
 #>   }
 ```

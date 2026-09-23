@@ -31,6 +31,7 @@ knitr::opts_chunk$set(
 
 [![DOI](https://zenodo.org/badge/1009536486.svg)](https://doi.org/10.5281/zenodo.17522182)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17522182.svg)](https://zenodo.org/doi/10.5281/zenodo.17522182)
 <!-- badges: end -->
 
 This dataset was collected in 2021 using the mWater mobile data
@@ -208,7 +209,7 @@ ggplot() +
 ## License
 
 Data are available as
-[CC-BY](https://github.com/openwashdata/%7B%7B%7Bpackagename%7D%7D%7D/blob/main/LICENSE.md).
+[CC-BY](https://github.com/openwashdata/nchalohhwatersurvey/blob/main/LICENSE.md).
 
 ## Citation
 

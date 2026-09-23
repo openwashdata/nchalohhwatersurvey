@@ -1,5 +1,4 @@
-
-url: https://github.com/openwashdata/nchalohhwatersurvey
+url: https://openwashdata.github.io/nchalohhwatersurvey/
 template:
   bootstrap: 5
   includes:
