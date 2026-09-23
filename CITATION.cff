@@ -8,7 +8,7 @@ message: 'To cite package "nchalohhwatersurvey" in publications use:'
 type: dataset
 license: CC-BY-4.0
 title: 'nchalohhwatersurvey: Nchalo Water Project Household Survey 2021'
-version: 0.0.0.9000
+version: 1.0.1
 doi: 10.5281/zenodo.17522182
 abstract: Household and community survey data from rural communities around Nchalo,
   Malawi. Includes water access, livelihoods, governance, and infrastructure information
