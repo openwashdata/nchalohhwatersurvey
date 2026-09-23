@@ -1,14 +1,15 @@
-# --------------------------------------------
-# CITATION file created with {cffr} R package
+# ------------------------------------------------
+# CITATION.cff file created with {cffr} R package
 # See also: https://docs.ropensci.org/cffr/
-# --------------------------------------------
+# ------------------------------------------------
  
 cff-version: 1.2.0
 message: 'To cite package "nchalohhwatersurvey" in publications use:'
-type: software
+type: dataset
 license: CC-BY-4.0
 title: 'nchalohhwatersurvey: Nchalo Water Project Household Survey 2021'
 version: 0.0.0.9000
+doi: 10.5281/zenodo.17522182
 abstract: Household and community survey data from rural communities around Nchalo,
   Malawi. Includes water access, livelihoods, governance, and infrastructure information
   collected via mWater platform to support water supply planning and rural development.
@@ -19,10 +20,22 @@ authors:
   orcid: https://orcid.org/0000-0003-3197-6244
 repository-code: https://github.com/openwashdata/nchalohhwatersurvey
 url: https://github.com/openwashdata/nchalohhwatersurvey
-date-released: '2025-07-16'
+date-released: '2026-09-23'
 contact:
 - family-names: Mhango
   given-names: Emmanuel
   email: emmanuellmhango@gmail.com
   orcid: https://orcid.org/0000-0003-3197-6244
+keywords:
+- open data
+- washdata
+- household survey
+- water supply
+- boreholes
+- livelihoods
+- Nchalo
+- Malawi
+- hygiene
+- sanitation
+- wash
 
