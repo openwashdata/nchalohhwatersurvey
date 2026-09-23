@@ -32,6 +32,7 @@ knitr::opts_chunk$set(
 [![DOI](https://zenodo.org/badge/1009536486.svg)](https://doi.org/10.5281/zenodo.17522182)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17522182.svg)](https://zenodo.org/doi/10.5281/zenodo.17522182)
+[![R-CMD-check](https://github.com/openwashdata/nchalohhwatersurvey/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/nchalohhwatersurvey/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 This dataset was collected in 2021 using the mWater mobile data
