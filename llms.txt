@@ -5,6 +5,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17522182.svg)](https://zenodo.org/doi/10.5281/zenodo.17522182)
 [![R-CMD-check](https://github.com/openwashdata/nchalohhwatersurvey/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/nchalohhwatersurvey/actions/workflows/R-CMD-check.yaml)
 
+A data package published by [openwashdata](https://openwashdata.org).
+
 This dataset was collected in 2021 using the mWater mobile data
 collection platform, as part of the Nchalo Water Project. The survey
 captures household-level and community-level information related to
