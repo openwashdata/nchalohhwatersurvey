@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Nchalo Water Project – Household Survey 2021
+# Nchalo Water Project – Household Survey 2021 <a href="https://openwashdata.org"><img src="man/figures/logo.png" align="right" width="120" alt="openwashdata" /></a>
 
 <!-- badges: start -->
 
@@ -13,8 +13,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17522182.svg)](https://zenodo.org/doi/10.5281/zenodo.17522182)
 [![R-CMD-check](https://github.com/openwashdata/nchalohhwatersurvey/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/nchalohhwatersurvey/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
-
-A data package published by [openwashdata](https://openwashdata.org).
 
 This dataset was collected in 2021 using the mWater mobile data
 collection platform, as part of the Nchalo Water Project. The survey
@@ -1123,6 +1121,8 @@ Data are available as
 [CC-BY](https://github.com/openwashdata/nchalohhwatersurvey/blob/main/LICENSE.md).
 
 ## Citation
+
+Published by openwashdata, <https://openwashdata.org>.
 
 Please cite this package using:
 
